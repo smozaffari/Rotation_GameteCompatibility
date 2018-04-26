@@ -1,2 +1,0 @@
-chr	rs	ps	n_miss	allele1	allele0	af	l_mle	p_lrt
--9	rs4844573	-9	0	C	T	0.455	4.751303e-01	3.005393e-01

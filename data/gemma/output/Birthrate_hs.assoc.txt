@@ -1,2 +1,0 @@
-chr	rs	ps	n_miss	allele1	allele0	af	beta	se	l_remle	p_wald
--9	rs4844573	-9	0	C	T	0.452	8.783012e-05	3.138360e-05	2.719544e-02	5.426085e-03
