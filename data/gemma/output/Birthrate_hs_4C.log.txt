@@ -1,0 +1,28 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -g Hsgtype2 -p Birthrate -k Men2relatedness_2 -lmm 1 -c Cov2_4wfgtype -o Birthrate_hs_4C 
+##
+## Summary Statistics:
+## number of total individuals = 341
+## number of analyzed individuals = 341
+## number of covariates = 5
+## number of phenotypes = 1
+## number of total SNPs = 1
+## number of analyzed SNPs = 1
+## REMLE log-likelihood in the null model = 2226.41
+## MLE log-likelihood in the null model = 2262.17
+## pve estimate in the null model = 0.182886
+## se(pve) in the null model = 0.113178
+## vg estimate in the null model = 2.02057e-08
+## ve estimate in the null model = 8.53588e-08
+## beta estimate in the null model =   0.0291295  -1.1739e-07  -1.383e-05  -1.4923e-08  -4.0806e-05
+## se(beta) =   0.00244256  1.16741e-08  1.22128e-06  1.73915e-08  2.8337e-05
+##
+## Computation Time:
+## total computation time = 0.003 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0.00233333 min 
+##      time on calculating UtX = 0 min 
+##      time on optimization = 0 min 
+##

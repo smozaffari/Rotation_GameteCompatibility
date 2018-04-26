@@ -1,0 +1,2 @@
+chr	rs	ps	n_miss	allele1	allele0	af	beta	se	p_score
+-9	rs4844573	-9	0	C	T	0.452	1.010528e-04	6.953827e-05	1.442094e-01
